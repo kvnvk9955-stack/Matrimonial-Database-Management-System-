@@ -264,3 +264,6 @@ This project is suitable for:
 
 ---
 
+## License
+
+This project is for educational purposes as part of an academic course requirement.
